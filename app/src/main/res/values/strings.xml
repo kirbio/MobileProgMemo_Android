@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MobileProgProject</string>
+    <string name="title_activity_memo_view">MemoViewActivity</string>
+    <string name="title_activity_new_memo">NewMemoActivity</string>
+</resources>
